@@ -90,7 +90,7 @@ import java.util.Scanner;
 	return c;
 	}
 }
-	public class BasicCalc
+	public class BasicCalc1
 	{
 	public static void main(String args[])
 	{
